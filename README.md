@@ -34,25 +34,6 @@
 - 🌐 **Web Development** - Responsive Design, Modern UI/UX
 - 🧩 **Problem Solving** - Algorithmic Challenges, Competitive Programming
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/JeetPitale">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeetPitale&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetPitale&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetPitale&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeetPitale&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🌟 Featured Projects
 
 ### 🎮 [HackWave](https://github.com/JeetPitale/HackWave)
