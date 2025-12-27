@@ -39,18 +39,18 @@
 <div align="center">
 
 <a href="https://github.com/JeetPitale">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeetPitale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetPitale&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1A1B27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeetPitale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetPitale&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetPitale&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetPitale&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeetPitale&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JeetPitale&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 Featured Projects
