@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&background=1A1B27&center=true&vCenter=true&width=500&lines=Aspiring+Cybersecurity+Professional;Frontend+Developer+%7C+Creative+Coder;Ethical+Hacking+Enthusiast;Hackathon+Winner+🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Aspiring+Cybersecurity+Professional;Frontend+Developer+%7C+Creative+Coder;Ethical+Hacking+Enthusiast;Hackathon+Winner+🏆)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,18 +39,18 @@
 <div align="center">
 
 <a href="https://github.com/JeetPitale">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeetPitale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetPitale&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeetPitale&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetPitale&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetPitale&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetPitale&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeetPitale&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JeetPitale&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 Featured Projects
